@@ -81,12 +81,14 @@ a:active {
 #blackop{
     padding: 30px;
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     width: 1349px;
     background: rgba(0, 0, 0, 0.4); 
     height: 450px;
 }
-
+#helloabout{
+    font-size: 60px;
+}
 #projects{
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 20px;
@@ -138,19 +140,22 @@ a:active {
     margin: 0px 0px 0px 0px;
     height: 70px;
     text-align: center;
+    font-size: 70px
 }
 #h4head{
+    padding: 40px 0px 0px 0px;
     margin: 0px 0px 0px 0px;
     width: 1349px;
     height: 50px;
     text-align: center;
+    font-size: 50px;
 }
 #quote{
-    padding: 20px 0px 0px 0px;
+    padding: 90px 0px 0px 0px;
     width: 1349px;
     text-align: center;
     height: 0px;
-    font-size: 30px;
+    font-size: 40px;
 }
 ul{
     display: inline-block;
