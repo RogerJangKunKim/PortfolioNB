@@ -1,0 +1,128 @@
+body {
+    height: 1000px;
+}
+#links{
+
+}
+#sociallink{
+    text-align: center;
+    color: white;
+}
+a:link {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: orange;
+}
+
+a:active {
+    text-decoration: underline;
+}
+.linkdiv{
+    color: white;
+    width: 80px;
+    padding: 0px 0px 0px 5px;
+    height: 20px;
+    margin: 0px 0px 0px 78px;
+    display: inline-block;
+}
+
+
+#webnav{
+    width: 1270px;
+    text-align: center;
+    margin: 10px 0px 50px 0px;
+}
+.webnav{
+    display: inline-block;
+    margin: 0px 0px 0px 100px;
+    text-align: center;
+    color: white;
+}
+#headerdiv{
+    font-family: 'PT Sans Narrow', sans-serif;
+    height: 543px;
+    color: white;
+    font-size: 50px;
+    width: 1349px;
+    padding: 0px 0px 0px 0px;
+    background: url(bluewalls.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+}
+#orangeop{
+    width: 1349px;
+    background: rgba(200, 80, 0, 0.4); 
+    height: 450px;
+}
+#aboutme{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+    height: 667px;
+    color: white;
+    width:1349px;
+    padding: 20px 0px 0px 0px;
+    background: url(bluewalls.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+}
+#whiteop{
+    
+    width: 1349px;
+    background: rgba(0, 0, 0, 0.4); 
+    height: 450px;
+}
+#projects{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+    height: 667px;
+    color: white;
+    width:1349px;
+    padding: 20px 0px 0px 0px;
+    background: url(bluewalls.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+}
+#blackop{
+    
+    width: 1349px;
+    background: rgba(400, 400, 400, 0.4); 
+    height: 450px;
+}
+#h3head{
+    padding: 20px 0px 0px 0px;
+    width: 1349px;
+    margin: 0px 0px 0px 0px;
+    height: 70px;
+    text-align: center;
+}
+#h4head{
+    margin: 0px 0px 0px 0px;
+    width: 1349px;
+    height: 50px;
+    text-align: center;
+}
+#quote{
+    padding: 20px 0px 0px 0px;
+    width: 1349px;
+    text-align: center;
+    height: 0px;
+    font-size: 30px;
+}
+ul{
+    display: inline-block;
+}
